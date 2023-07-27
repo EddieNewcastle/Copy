@@ -1,0 +1,14 @@
+name: Eddie_env
+  
+dependencies:
+  - numpy
+  - nlp
+  - pandas
+  - pip
+  - python=3.8
+  - rdkit
+  - matplotlib
+  - seaborn
+  - tensorflow
+  - scikit-learn
+  - scipy
